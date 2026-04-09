@@ -1,3 +1,5 @@
+<img align="right" width="450" height="430" alt="Captura de tela 2026-04-09 012947" src="https://github.com/user-attachments/assets/d72c6bcb-5671-4aea-81e8-d8d82ff6529c" />
+
 # **Mig Cupcakes 🧁**
 Este projeto é uma landing page interativa desenvolvida desde a sua prototipagem no **Figma** para a marca fictícia Mig Cupcakes, com foco em transmitir a identidade visual acolhedora e sofisticada de uma confeitaria artesanal.
 
