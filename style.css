@@ -181,6 +181,9 @@ header #nav-menu ul li a:hover {
     .content h1 span {
         font-size: 4rem;
     }
+    .content p {
+        font-size: 1rem;
+    }   
 
     .image-background {
         width: 30%;
@@ -197,6 +200,10 @@ header #nav-menu ul li a:hover {
 
     .botton-bar-topics p {
         font-size: 1rem;
+    }
+    .divisor {
+        width: 10px;
+        height: 10px;
     }
 
     .social-media-bar {
